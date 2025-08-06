@@ -1,4 +1,3 @@
-Localhaunt
 Localhaunt is a community-driven platform for discovering and sharing ghost stories tied to real-world locations. Attach tales of hauntings, urban legends, and paranormal encounters to maps and explore your area’s hidden history.
 
 Features
